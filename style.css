@@ -1,5 +1,5 @@
 .clockdate-wrapper {
-    background-color: #333;
+    background-color: #706993;
     padding:25px;
     max-width:350px;
     width:100%;
@@ -9,15 +9,15 @@
   
 }
 #clock{
-    background-color:#333;
+    background-color:#5e6472;
     font-family: sans-serif;
     font-size:60px;
-    text-shadow:0px 0px 1px #fff;
-    color:#fff;
+    text-shadow:0px 0px 1px #dbd3d8;
+    color:#dbd3d8;
 }
 #clock span {
     color:#888;
-    text-shadow:0px 0px 1px #333;
+    text-shadow:0px 0px 1px #dac3e8;
     font-size:50px;
     position:relative;
     top:-5px;
@@ -27,5 +27,5 @@
     letter-spacing:3px;
     font-size:14px;
     font-family:arial,sans-serif;
-    color:#fff;
+    color:#dbd3d8;
 }
